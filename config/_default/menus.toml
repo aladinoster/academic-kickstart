@@ -41,3 +41,10 @@
    icon = "cv"
    icon_pack = "ai"
    weight = 70
+
+[[main]]
+   name = "<i class='ai ai-google-scholar'></i>"
+   url = "https://scholar.google.com/citations?hl=en&user=ByBqIJMAAAAJ"
+   icon = "cv"
+   icon_pack = "ai"
+   weight = 70   
