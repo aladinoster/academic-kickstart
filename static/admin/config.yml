@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: aladinoster/academic-kickstart
   branch: master
 media_folder: "static/media/"
 public_folder: "media"
