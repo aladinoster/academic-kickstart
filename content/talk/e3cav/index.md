@@ -60,7 +60,7 @@ math = true
   focal_point = "Right"
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 Click on here for more info on the detailed program [Program](http://www.ws-e3cav.com/Projet/upload/docs/application/pdf/2019-09/program_v2.pdf) and
 [Workshop](http://www.ws-e3cav.com) for general information.
-{{% /alert %}}
+{{% /callout %}}

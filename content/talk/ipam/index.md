@@ -60,6 +60,6 @@ math = true
   focal_point = "Right"
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 Click on the **Video** button above to view the presentation done at that time. My talk is at the end of the list.
-{{% /alert %}}
+{{% /callout %}}
