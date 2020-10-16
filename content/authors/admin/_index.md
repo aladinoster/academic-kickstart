@@ -67,7 +67,7 @@ social:
 #   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "contact@andresladino.com"
+email: "andres.ladino@vivaldi.net"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
