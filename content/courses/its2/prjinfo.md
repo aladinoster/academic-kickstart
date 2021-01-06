@@ -23,8 +23,8 @@ This project will be developed as follows:
 | Introduction to ITS         | 02-12-2020 | 14:30-18:00 | Online |
 | Session 1 (Lab Work)        | 06-01-2021 | 14:30-18:00 | Online |
 | Session 2 (Lab Work)        | 20-01-2021 | 14:30-18:00 | Online |
-| *Individual presentation\** | 03-02-2020 | 14:30-18:00 | Online |
-| *Final presentation\**      | 10-02-2020 | 14:30-18:00 | Online |
+| *Individual presentation\** | 03-02-2021 | 14:30-18:00 | Online |
+| *Final presentation\**      | 10-02-2021 | 14:30-18:00 | Online |
 
 *(\*) Denote Evaluation checkpoints*
 
