@@ -16,7 +16,7 @@ weight: 2
 
 ## Project code
 
-Source code and notebooks [here](https://github.com/aladinoster/prj_vplatoon)
+Source code and notebooks [here](https://github.com/research-licit/ITSProjects)
 
 ## Idea of vehicle platooning 
 

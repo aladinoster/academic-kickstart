@@ -16,7 +16,7 @@ weight: 3
 
 ## Project code
 
-Source code and notebooks [here](https://github.com/aladinoster/prj_connectv2x)
+Source code and notebooks [here](https://github.com/research-licit/ITSProjects)
 
 ## Idea on connected vehicles 
 
