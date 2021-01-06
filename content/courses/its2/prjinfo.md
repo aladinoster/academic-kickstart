@@ -28,7 +28,7 @@ This project will be developed as follows:
 
 |                                      |       |
 | :----------------------------------- | :---: |
-| *(\*) Denote Evaluation checkpoints* |       |
+| ** Denote Evaluation checkpoints*    |       |
 
 ## Content 
 
