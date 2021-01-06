@@ -18,13 +18,13 @@ weight: 1
 
 This project will be developed as follows:
 
-| Session                |    Date    |    Time     |   Room |
-| ---------------------- | :--------: | :---------: | -----: |
-| Introduction to ITS    | 02-12-2020 | 14:30-18:00 | Online |
-| Session 1 (Lab Work)   | 06-01-2021 | 14:30-18:00 | Online |
-| Session 2 (Lab Work)   | 20-01-2021 | 14:30-18:00 | Online |
-| Session 3 (Lab Work)*  | 03-02-2020 | 14:30-18:00 | Online |
-| *Final presentation\** | 10-02-2020 | 14:30-18:00 | Online |
+| Session                     |    Date    |    Time     |   Room |
+| --------------------------- | :--------: | :---------: | -----: |
+| Introduction to ITS         | 02-12-2020 | 14:30-18:00 | Online |
+| Session 1 (Lab Work)        | 06-01-2021 | 14:30-18:00 | Online |
+| Session 2 (Lab Work)        | 20-01-2021 | 14:30-18:00 | Online |
+| *Individual presentation\** | 03-02-2020 | 14:30-18:00 | Online |
+| *Final presentation\**      | 10-02-2020 | 14:30-18:00 | Online |
 
 *(\*) Denote Evaluation checkpoints*
 
