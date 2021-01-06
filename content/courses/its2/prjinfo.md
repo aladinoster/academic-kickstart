@@ -26,7 +26,9 @@ This project will be developed as follows:
 | *Individual presentation\** | 03-02-2021 | 14:30-18:00 | Online |
 | *Final presentation\**      | 10-02-2021 | 14:30-18:00 | Online |
 
-*(\*) Denote Evaluation checkpoints*
+|                                      |       |
+| :----------------------------------- | :---: |
+| *(\*) Denote Evaluation checkpoints* |       |
 
 ## Content 
 
