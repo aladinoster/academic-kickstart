@@ -43,7 +43,7 @@ tags =  ["Truck Platooning","Connected & Automated Vehicles", "Vehicle Merging"]
 # Links (optional).
 url_pdf = "https://hal.archives-ouvertes.fr/hal-02536313/document"
 url_preprint = "http://bit.ly/TRB_2020pdf"
-url_code = "https://github.com/research-licit/energy-impact-platoon"
+url_code = "https://github.com/licit-lab/energy-impact-platoon"
 url_dataset = ""
 url_project = ""
 url_slides = ""

@@ -43,7 +43,7 @@ tags =  ["Truck Platooning","Connected & Automated Vehicles", "Vehicle Merging"]
 # Links (optional).
 url_pdf = "http://bit.ly/TR-B2019"
 url_preprint = "http://bit.ly/ISTTT-2019"
-url_code = "https://github.com/research-licit/Hierarchical-Platooning/tree/master/Operational"
+url_code = "https://github.com/licit-lab/Hierarchical-Platooning/tree/master/Operational"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -71,4 +71,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "TopLeft"
 +++
-
