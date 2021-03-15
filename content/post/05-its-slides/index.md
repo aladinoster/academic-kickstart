@@ -1,5 +1,5 @@
 +++
-title = "Slides on ITS"
+title = "Slides on ITS - 2019/2020"
 subtitle = "Materials of the course on Inteligent Transporation Systems"
 summary = "Check here the content about the course and slides presented during the first session"
 date = 2019-12-03T00:00:00Z
