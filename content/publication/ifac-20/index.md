@@ -25,7 +25,7 @@ publication_short = "In *IFAC 2020*"
 abstract = "Coordinated execution of lane change maneuvers for automated vehicles near highway bottlenecks is crucial for  traffic throughput and safety.  A dynamic game framework is put forward  to derive the system optimum strategy for a network of cooperative vehicles interacting at a merging bottleneck with a simplified vehicle dynamics model. Cooperative vehicles on the  highway mainline seek optimal strategies (i.e. whether and when to perform courtesy lane change to facilitate the merging vehicle) to minimize their cost, which penalizes deviations from their desired driving conditions while taking into account the predicted action of merging vehicles.  Merging vehicles minimize the distance travelled on the acceleration lane in addition to the same cost terms of the mainline vehicles, taking into account the predicted reaction of mainline vehicles to their merging actions. An optimum strategy is found by minimizing the joint cost of all interacting vehicles while respecting behavioral and physical constraints. The full dynamic game is cast as a set of sub-problems regularly expressed as standard optimal control problems that can be solved efficiently. Numerical examples show the feasibility of the approach in capturing the nature of conflict and cooperation during the merging process."
 
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

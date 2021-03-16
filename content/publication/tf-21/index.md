@@ -25,7 +25,7 @@ publication_short = "In *Findings 2021*"
 abstract = "A key question about cooperative vehicle longitudinal control is reactivity, which determines the future of road safety, and capacity. In adaptive cruise control (ACC), the controller adapts the speed of the vehicle to its immediate leader’s speed whereas, in the cooperative version (CACC), connectivity between the platoon equipped vehicles reduces their response times. The USDoT Cooperative Automated Research Mobility Applications (CARMA) platform provides data for platooning experiments involving ACC and CACC vehicles. We measure ACC response times (mean = 2.78 seconds) larger than for human-driven cars. We study response times inside CACC platoons showing that connectivity is not always effective."
 
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
