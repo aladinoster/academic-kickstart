@@ -80,4 +80,4 @@ I am a postdoctoral researcher in Automatic Control at [UGE](https://www.univ-gu
 
 I am also passioned about the Data Science community and the recent work developed around reproducible research. Fan of [#rstats](https://twitter.com/search?q=%23rstats&src=typd) and python.
 
-Please find the a recent list of publications [here](#featured)
+Please find a recent list of publications [here](#featured)
