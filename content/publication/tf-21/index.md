@@ -42,7 +42,7 @@ tags =  ["Connected & Automated Vehicles", "Response Time", "Adaptive Cruise Con
 # Links (optional).
 url_pdf = "https://findingspress.org/article/21190-first-observations-about-response-times-and-connectivity-in-a-vehicles-platooning-experiment.pdf"
 url_preprint = "https://hal.archives-ouvertes.fr/hal-03168981"
-url_code = ""
+url_code = "https://github.com/licit-lab/vrt_analysis"
 url_dataset = ""
 url_project = ""
 url_slides = ""
