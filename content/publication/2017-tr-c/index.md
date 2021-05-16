@@ -18,7 +18,7 @@ authors = ["Ladino A.","Kibangou A.", "Canudas-de-Wit C.", "Fourati H."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Transportation Research Part C*, IEEE."
+publication = "In *Transportation Research Part C*"
 publication_short = "In *TR-C*"
 
 # Abstract and optional shortened version.
