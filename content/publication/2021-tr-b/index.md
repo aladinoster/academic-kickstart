@@ -41,7 +41,7 @@ projects = []
 tags =  ["Optimal route guidance","Urban traffic control", "Avoidance Maps","System Optimum"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0191261521000813"
 url_preprint = "http://bit.ly/TR-B_EOTDAM2021"
 url_code = "https://github.com/licit-lab/vanishing-control"
 url_dataset = ""
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.trb.2021.05.002"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
