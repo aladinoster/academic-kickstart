@@ -37,7 +37,7 @@ projects = ["ensemble"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags =  ["Connected & Automated Vehicles", "Adaptive Cruise Control (ACC)", "Cooperative Adaptive Cruise Control (CACC)", "Vehicle Platooning"]
+tags =  ["Connected & Automated Vehicles", "Adaptive Cruise Control (ACC)", "Cooperative Adaptive Cruise Control (CACC)", "Truck Platooning"]
 
 # Links (optional).
 url_pdf = ""
