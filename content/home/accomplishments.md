@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 item:
-- certificate_url: http://bit.ly/DC_DSwPyt
+- certificate_url: http://bit.ly/DC_DSwPython
   date_start: "2017-07-02"
   date_end: "2019-05-04"
   description: |2-
@@ -31,6 +31,15 @@ item:
   organization: "DataCamp"
   organization_url: https://www.datacamp.com
   title: Data Scientist with Python
+  url: https://www.datacamp.com/tracks/data-scientist-with-python?version=1
+- certificate_url: https://bit.ly/DC_MLwPython
+  date_start: "2017-07-02"
+  date_end: "2019-05-04"
+  description: |2-
+    A series of online lectures & projects on how to combine statistical and machine learning techniques with Python programming to analyze and interpret complex data.
+  organization: "DataCamp"
+  organization_url: https://www.datacamp.com
+  title: Machine Learning with Python
   url: https://www.datacamp.com/tracks/data-scientist-with-python?version=1
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
