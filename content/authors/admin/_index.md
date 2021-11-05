@@ -29,13 +29,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Automatic Control
+  - course: PhD Automatic Control
     institution: Université Grenoble Alpes
     year: 2018
-  - course: MEng in Electronic Engineering
+  - course: M.E. Electronic Engineering
     institution: Pontifical Xavierian University
     year: 2012
-  - course: BSc in Electronic Engineering
+  - course: B.E. Electronic Engineering
     institution: Pontifical Xavierian University
     year: 2008
 
