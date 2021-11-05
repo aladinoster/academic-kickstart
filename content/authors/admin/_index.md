@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Postdoctoral Researcher
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Université Gustave Eiffel
   url: "https://www.univ-gustave-eiffel.fr"
@@ -20,27 +20,29 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed control, networked control systems and machine learning.
 
+# Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Automatic Control
 - Intelligent Transportation Systems
 
+# Education to show in About widget
 education:
   courses:
-  - course: PhD in Automatic Control
+  - course: PhD Automatic Control
     institution: Université Grenoble Alpes
     year: 2018
-  - course: MEng in Electronic Engineering
+  - course: M.E. Electronic Engineering
     institution: Pontifical Xavierian University
     year: 2012
-  - course: BSc in Electronic Engineering
+  - course: B.E. Electronic Engineering
     institution: Pontifical Xavierian University
     year: 2008
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -56,21 +58,21 @@ social:
 #   link: https://scholar.google.com/citations?hl=en&user=ByBqIJMAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Andres_Ladino2  
+  link: https://www.researchgate.net/profile/Andres_Ladino2
 - icon: github
   icon_pack: fab
   link: https://github.com/aladinoster
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "andres.ladino@vivaldi.net"
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
@@ -80,4 +82,4 @@ I am a postdoctoral researcher in Automatic Control at [UGE](https://www.univ-gu
 
 I am also passioned about the Data Science community and the recent work developed around reproducible research. Fan of [#rstats](https://twitter.com/search?q=%23rstats&src=typd) and python.
 
-Please find a recent list of publications [here](#featured)
+Please find a recent list of publications [here](#featured) {{< icon name="download" pack="fas" >}} Download my {{< staticref "/files/CVAndresLadino.pdf" "newtab" >}}resumé{{< /staticref >}}.

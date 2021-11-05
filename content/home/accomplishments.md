@@ -1,31 +1,48 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
 
-title = "Additional Education"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Accomplish&shy;ments'
+subtitle:
 
 # Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+item:
+- certificate_url: http://bit.ly/DC_DSwPython
+  date_start: "2017-07-02"
+  date_end: "2019-05-04"
+  description: |2-
+    A series of online lectures & projects on how to combine statistical and machine learning techniques with Python programming to analyze and interpret complex data.
+  organization: "DataCamp"
+  organization_url: https://www.datacamp.com
+  title: Data Scientist with Python
+  url: https://www.datacamp.com/tracks/data-scientist-with-python?version=1
+- certificate_url: https://bit.ly/DC_MLwPython
+  date_start: "2017-07-02"
+  date_end: "2019-05-04"
+  description: |2-
+    A series of online lectures & projects on how to combine statistical and machine learning techniques with Python programming to analyze and interpret complex data.
+  organization: "DataCamp"
+  organization_url: https://www.datacamp.com
+  title: Machine Learning with Python
+  url: https://www.datacamp.com/tracks/data-scientist-with-python?version=1
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Data Scientist with Python"
-  url = "https://www.datacamp.com/tracks/data-scientist-with-python?version=1"
-  certificate_url = "http://bit.ly/DC_DSwPython"
-  date_start = "2017-07-02"
-  date_end = "2019-05-04"
-  description = "A series of online lectures & projects on how to combine statistical and machine learning techniques with Python programming to analyze and interpret complex data."
-
-+++
+design:
+  columns: '2'
+---

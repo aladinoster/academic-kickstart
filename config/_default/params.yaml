@@ -1,0 +1,154 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+theme: my_theme
+day_night: false
+font: ""
+font_size: M
+
+# SEO
+
+site_type: Person
+local_business_type: ProfessionalService
+org_name: ""
+description: "Data Scientist and Consultant"
+twitter: "aladinoster"
+
+# Contact (edit or remove options as required)
+
+email: andres.ladino@vivaldi.net
+phone: +33 4 72 14 25 49
+address:
+  street: 25, avenue François Mitterrand
+  city: Bron
+  region: ARA
+  postcode: "94305"
+  country: France
+  country_code: FR
+coordinates:
+  latitude: "45.736547"
+  longitude: "4.925383"
+directions: Enter Main Building take the stairs to Office 408 on Floor 4
+office_hours:
+  - "Monday-Friday 9:00 to 17:00"
+appointment_url: "https://calendly.com/aladinoster"
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: "https://twitter.com/aladinoster"
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: "skype:andres.ladino.86?call"
+  - icon: telegram
+    icon_pack: fab
+    name: Let's chat
+    link: "https://telegram.me/aladinoster"
+
+# Site header
+
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
+
+# Localization
+
+date_format: "Jan 2, 2006"
+time_format: "3:04 PM"
+address_format: en-us
+
+# Site features
+
+highlight: true
+highlight_languages:
+  - r
+  - python
+math: true
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: ""
+  content_dir: ""
+  repo_branch: main
+  editable:
+    page: false
+    post: false
+    book: false
+show_related:
+  book: true
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
+reading_time: true
+section_pager: false
+docs_section_pager: true
+sharing: true
+copyright_license:
+  enable: true
+  allow_derivatives: false
+  share_alike: false
+  allow_commercial: false
+  notice: "This work is licensed under {license}"
+abstract_length: 135
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: circle
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+breadcrumb:
+  page_types:
+    book: true
+comments:
+  provider: ""
+  commentable:
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
+  disqus:
+    shortname: ""
+    show_count: true
+  commento:
+    url: ""
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ""
+    api_key: ""
+    index_name: ""
+    show_logo: false
+map:
+  provider: "mapbox"
+  api_key: ""
+  zoom: 15
+marketing:
+  google_analytics: "UA-131060428-1"
+  google_tag_manager: ""
+  google_site_verification: ""
+  baidu_site_verification: ""
+  baidu_tongji: ""
+cms:
+  branch: master
+  local_backend: false
+icon:
+  pack:
+    ai: true
