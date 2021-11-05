@@ -24,9 +24,10 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 item:
 - certificate_url: http://bit.ly/DC_DSwPyt
-  date_start: 2017-07-02
-  date_end: 2019-05-04
-  description: """A series of online lectures & projects on how to combine statistical and machine learning techniques with Python programming to analyze and interpret complex data."""
+  date_start: "2017-07-02"
+  date_end: "2019-05-04"
+  description: |2-
+    A series of online lectures & projects on how to combine statistical and machine learning techniques with Python programming to analyze and interpret complex data.
   organization: "DataCamp"
   organization_url: https://www.datacamp.com
   title: Data Scientist with Python

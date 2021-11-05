@@ -1,199 +1,105 @@
-+++
-title = "Academic: the website designer for Hugo"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+---
+title: Welcome to Wowchemy, the website builder for Hugo
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
-draft = false
+# Summary for listings and search engines
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+# Link this post with a project
+projects: []
 
-tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+# Date published
+date: "2016-04-20T00:00:00Z"
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+# Date updated
+lastmod: "2018-01-13T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+authors:
+- admin
+- 吳恩達
 
-  # Show image only in page previews?
-  preview_only = false
+tags:
+- Academic
+- 开源
 
-# Set captions for image gallery.
+categories:
+- Demo
+- 教程
+---
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-default.png"
-caption = "Default"
+## Overview
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-ocean.png"
-caption = "Ocean"
+1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-forest.png"
-caption = "Forest"
+{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-dark.png"
-caption = "Dark"
+## Get Started
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-apogee.png"
-caption = "Apogee"
+- 👉 [**Create a new site**](https://wowchemy.com/templates/)
+- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-1950s.png"
-caption = "1950s"
+## Crowd-funded open-source software
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-[[gallery_item]]
-album = "gallery"
-image = "theme-cupcake.png"
-caption = "Cupcake"
-+++
+### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
 
-**Disclaimer:** *This post was original created by the website documentation. I have decided to leave it for documentation purposes and also for those who are curious.*
-
-***
-
-**Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
-
-Follow our easy [step by step guide](https://sourcethemes.com/academic/docs/install/) to learn how to build your own free website with Academic. [Check out the personal demo](https://academic-demo.netlify.com/) or the [business demo](https://sourcethemes.com/academic/) of what you'll get in less than 10 minutes.
-
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
-
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
-
-Key features:
-
-- Easily manage various content including homepage, blog posts, publications, talks, and projects
-- Extensible via **color themes** and **widgets/plugins**
-- Write in [Markdown](https://sourcethemes.com/academic/docs/writing-markdown-latex/) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Social/academic network linking, [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
-- Responsive and mobile friendly
-- Simple and refreshing one page design
-- Multilingual and easy to customize
-
-## Color Themes
-
-Academic is available in different color themes and font themes.
-
-{{< gallery >}}
+As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
 
 ## Ecosystem
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
 
-## Install
+## Inspiration
 
-You can choose from one of the following four methods to install:
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
 
-* one-click install using your web browser (recommended)
-* install on your computer using Git with the Command Prompt/Terminal app
-* install on your computer by downloading the ZIP files
-* install on your computer with RStudio
+## Features
 
-### Quick install using your web browser
+- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 34+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://academic-demo.netlify.com/)
+## Themes
 
-### Install with Git
+Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
 
-Prerequisites:
-
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
-
-1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
-
-        git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
-
-2. Initialize the theme:
-
-        cd My_Website
-        git submodule update --init --recursive
-
-### Install with ZIP
-
-1. [Download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip) and extract *Academic Kickstart*
-2. [Download](https://github.com/gcushen/hugo-academic/archive/master.zip) and extract the *Academic theme* to the `themes/academic/` folder from the above step
-
-### Install with RStudio
-
-[View the guide to installing Academic with RStudio](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-## Quick start
-
-1. If you installed on your computer, view your new website by running the following command:
-      
-        hugo server
-
-    Now visit [localhost:1313](http://localhost:1313) and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.
-           
-2. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://academic-demo.netlify.com/)
-
-3. Build your site by running the `hugo` command. Then [host it for free using Github Pages](https://georgecushen.com/create-your-website-with-hugo/) or Netlify (refer to the first installation method). Alternatively, copy the generated `public/` directory (by FTP, Rsync, etc.) to your production web server (such as a university's hosting service).
-
-## Updating
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of updates and check out the [release notes](https://sourcethemes.com/academic/updates) prior to updating your site.
-
-Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your `themes/academic` directory) and record your current version number.
-
-By default, Academic is installed as a Git submodule which can be updated by running the following command:
-
-```bash
-git submodule update --remote --merge
-```
-
-[Check out the update guide](https://sourcethemes.com/academic/docs/update/) for full instructions and alternative methods.
-
-## Feedback & Contributing
-
-Please use the [issue tracker](https://github.com/gcushen/hugo-academic/issues) to let me know about any bugs or feature requests, or alternatively make a pull request.
-
-For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
+[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
 ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.

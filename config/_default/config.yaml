@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: AcadeAndrés Ladino # Website name
+title: Andrés Ladino # Website name
 baseurl: "https://www.andresladino.com/" # Website URL
 copyright: "© {year} Andres Ladino" # Footer text, e.g. '© {year} Me'
 
