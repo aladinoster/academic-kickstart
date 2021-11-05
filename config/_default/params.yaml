@@ -6,54 +6,49 @@
 # Appearance
 
 theme: minimal
-day_night: true
-font: ''
+day_night: false
+font: ""
 font_size: L
 
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+local_business_type: ProfessionalService
+org_name: ""
+description: "Data Scientist and Consultant"
+twitter: "aladinoster"
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: andres.ladino@vivaldi.net
+phone: +33 4 72 14 25 49
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 25, avenue François Mitterrand
+  city: Bron
+  region: ARA
+  postcode: "94305"
+  country: France
+  country_code: FR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: "45.736547"
+  longitude: "4.925383"
+directions: Enter Main Building take the stairs to Office 408 on Floor 4
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - "Monday-Friday 9:00 to 17:00"
+appointment_url: "https://calendly.com/aladinoster"
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: "https://twitter.com/aladinoster"
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    link: "skype:andres.ladino.86?call"
+  - icon: telegram
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Let's chat
+    link: "https://telegram.me/aladinoster"
 
 # Site header
 
@@ -68,8 +63,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: "Jan 2, 2006"
+time_format: "3:04 PM"
 address_format: en-us
 
 # Site features
@@ -77,12 +72,13 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+  - python
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: ""
+  content_dir: ""
   repo_branch: main
   editable:
     page: false
@@ -100,11 +96,11 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: "This work is licensed under {license}"
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -121,7 +117,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: ""
   commentable:
     post: true
     book: true
@@ -129,27 +125,27 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: ""
     show_count: true
   commento:
-    url: ''
+    url: ""
 search:
   provider: wowchemy
   algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
+    app_id: ""
+    api_key: ""
+    index_name: ""
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: ""
+  api_key: ""
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  google_analytics: ""
+  google_tag_manager: ""
+  google_site_verification: ""
+  baidu_site_verification: ""
+  baidu_tongji: ""
 cms:
   branch: master
   local_backend: false
