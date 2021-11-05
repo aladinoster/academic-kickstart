@@ -14,9 +14,9 @@ link = "#002d72"
 link_hover = "cfe5f2"
 
 # Menu
-menu_primary = "#022a66"
+menu_primary = "#1c3058"
 menu_text = "#ffffff"
-menu_text_active = "#68ace5"
+menu_text_active = "#7cbcf8"
 menu_title = "#ffffff"
 
 # Home sections

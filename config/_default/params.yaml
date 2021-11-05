@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: my_theme
 day_night: false
 font: ""
-font_size: L
+font_size: M
 
 # SEO
 
@@ -137,11 +137,11 @@ search:
     index_name: ""
     show_logo: false
 map:
-  provider: ""
+  provider: "mapbox"
   api_key: ""
   zoom: 15
 marketing:
-  google_analytics: ""
+  google_analytics: "UA-131060428-1"
   google_tag_manager: ""
   google_site_verification: ""
   baidu_site_verification: ""
