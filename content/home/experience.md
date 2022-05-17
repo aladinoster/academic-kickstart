@@ -32,7 +32,7 @@ experience:
         Responsabilities include:
 
         * Development of new data analysis technologies for predictive maintenance for the RATP Group
-        * Contribution to de main core functionalities on
+        * Data science model and implementation of new features for SERVAL 2. Maintenance application for the metro/train system at RATP.
 
   - title: Postdoctoral Researcher
     company: Université Gustave Eiffel (Former IFSTTAR)
