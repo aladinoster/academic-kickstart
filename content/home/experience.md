@@ -21,13 +21,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 experience:
+
+  - title: Data Scientist
+    company: Talan
+    company_url: https://talan.com
+    location: Paris, France
+    date_start: '2022-01-03'
+    date_end: ''
+    description: |2-
+        Responsabilities include:
+
+        * Development of new data analysis technologies for predictive maintenance for the RATP Group
+        * Contribution to de main core functionalities on
+
   - title: Postdoctoral Researcher
     company: Université Gustave Eiffel (Former IFSTTAR)
     company_url: https://www.univ-gustave-eiffel.fr
     company_logo: org-uge
     location: Lyon, France
     date_start: '2018-01-01'
-    date_end: ''
+    date_end: '2021-11-30'
     description: |2-
         Responsabilities include:
 
