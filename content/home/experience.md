@@ -25,6 +25,7 @@ experience:
   - title: Data Scientist
     company: Talan
     company_url: https://talan.com
+    company_logo: org-talan
     location: Paris, France
     date_start: '2022-01-03'
     date_end: ''
