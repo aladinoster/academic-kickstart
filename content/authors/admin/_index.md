@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Université Gustave Eiffel
-  url: "https://www.univ-gustave-eiffel.fr"
+- name: Talan
+  url: "https://www.talan.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed control, networked control systems and machine learning.
