@@ -41,6 +41,15 @@ item:
   organization_url: https://www.datacamp.com
   title: Machine Learning with Python
   url: https://www.datacamp.com/tracks/data-scientist-with-python?version=1
+- certificate_url: https://bit.ly/CertDeepLearningAITFDev
+  date_start: "2022-07-01"
+  date_end: "2022-09-11"
+  description: |2-
+    Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Convolutional Neural Networks in TensorFlow, Natural Language Processing in TensorFlow, Sequences, Time Series and Prediction
+  organization: "Coursera"
+  organization_url: https://www.coursera.org
+  title: DeepLearning.AI TensorFlow Developer
+  url: https://www.coursera.org/professional-certificates/tensorflow-in-practice
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 design:
