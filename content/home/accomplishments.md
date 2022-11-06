@@ -46,10 +46,20 @@ item:
   date_end: "2022-09-11"
   description: |2-
     Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Convolutional Neural Networks in TensorFlow, Natural Language Processing in TensorFlow, Sequences, Time Series and Prediction
-  organization: "Coursera"
+  organization: "DeepLearningAI"
   organization_url: https://www.coursera.org
   title: DeepLearning.AI TensorFlow Developer
   url: https://www.coursera.org/professional-certificates/tensorflow-in-practice
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+- certificate_url: https://bit.ly/CertDigitalTransformationUsingAI
+  date_start: "2022-06-01"
+  date_end: "2022-07-11"
+  description: |2-
+    Business Transformation with Google Cloud. Infrastructure and Application Modernization with Google Cloud. Managing Machine Learning Projects with Google Cloud
+  organization: "Coursera"
+  organization_url: https://www.coursera.org
+  title: Digital Transformation Using AI/ML with Google Cloud
+  url: https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 design:
