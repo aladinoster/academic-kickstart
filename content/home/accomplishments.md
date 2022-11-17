@@ -46,7 +46,7 @@ item:
   date_end: "2022-09-11"
   description: |2-
     Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Convolutional Neural Networks in TensorFlow, Natural Language Processing in TensorFlow, Sequences, Time Series and Prediction
-  organization: "DeepLearningAI"
+  organization: "Coursera"
   organization_url: https://www.coursera.org
   title: DeepLearning.AI TensorFlow Developer
   url: https://www.coursera.org/professional-certificates/tensorflow-in-practice
